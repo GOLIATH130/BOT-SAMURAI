@@ -559,7 +559,7 @@ break
 case '#menu':
 case '#help':
 case '!help':
-case '!menu':
+case ':menu':
 case '/menu':
 case '/help':
 case 'help':
